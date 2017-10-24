@@ -1,4 +1,4 @@
 # HelloWorld
 Guide...
 Cos wstawię
-Zmieniłem komununikat
+Zmieniłem komunikat
